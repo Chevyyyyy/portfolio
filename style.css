@@ -16,6 +16,14 @@ header {
 	width: 150px;
 	border-radius: 50%;
 }
+.cert-img {
+   width: 200px;           
+   height: auto;
+   border: 3px solid #333; 
+   border-radius: 5px;    
+   padding: 5px;           
+   background-color: #fff; 
+}
 
 button {
 	padding: 10px 20px;
